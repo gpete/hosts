@@ -2080,5 +2080,5 @@
 0.0.0.0	www.etsy.com
 0.0.0.0	theviraler.com
 0.0.0.0	www.theviraler.com
-0.0.0.0	popsuger.com
-0.0.0.0	www.popsuger.com
+0.0.0.0	popsugar.com
+0.0.0.0	www.popsugar.com
