@@ -2074,3 +2074,8 @@
 0.0.0.0	www.zheat.info
 0.0.0.0	www.zippyproxy.com
 0.0.0.0	www.zproxy.de
+
+# Other
+0.0.0.0	etsy.com
+0.0.0.0	theviraler.com
+0.0.0.0	popsuger.com
