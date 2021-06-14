@@ -1,0 +1,41 @@
+# Opera (bypasses with accelerator)
+127.0.0.1	api-a.op-mobile.opera.com
+127.0.0.1	dot-a.op-mobile.opera.com
+127.0.0.1	download3.operacdn.com
+127.0.0.1	global-turbo2.opera-mini.net
+127.0.0.1	global-turbo2-1.opera-mini.net
+127.0.0.1	news.opera-api.com
+127.0.0.1	mini5.opera-mini.net
+127.0.0.1	ofa-sub.osp.opera.software
+127.0.0.1	operamini-sub.osp.opera.software
+127.0.0.1	pps-token.op-mobile.opera.com
+127.0.0.1	s-adx.op-mobile.opera.com
+127.0.0.1	t-odx.op-mobile.opera.com
+127.0.0.1	thumbnails.opera.com
+127.0.0.1	thumbnails2.opera.com
+127.0.0.1	thumbnails3.opera.com
+127.0.0.1	get.geo.opera.com
+127.0.0.1	xml.opera.com
+
+# Opera VPN
+127.0.0.1	api.sec-tunnel.com
+
+# Other search engines
+127.0.0.1	yandex.com
+127.0.0.1	yahoo.com
+127.0.0.1	ask.com
+
+# Other circumvention
+# Useful list for blocking though most are firewall rules and not hosts https://kb.smoothwall.com/hc/en-us/sections/360002135879-Block-Access
+127.0.0.1	hidemy.name
+127.0.0.1	nordvpn.com
+127.0.0.1	protonvpn.com
+127.0.0.1	windscribe.com
+127.0.0.1	gethotspotshield.com
+127.0.0.1	hotspotshield.com
+127.0.0.1	hotspotshield.net
+127.0.0.1	hide.me
+127.0.0.1	cloudmosa.net  #puffin browser
+127.0.0.1	anchorfree.com
+127.0.0.1	anchorfree.net
+127.0.0.1	openvpn.net
